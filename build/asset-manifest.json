@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7a6854a0.css",
+    "main.js": "/static/js/main.04db52a3.js",
+    "static/js/787.a3ca64dc.chunk.js": "/static/js/787.a3ca64dc.chunk.js",
+    "static/media/portada.jpg": "/static/media/portada.77a35b66e7816d9adb70.jpg",
+    "static/media/moto.jpg": "/static/media/moto.758573e674409c5db54b.jpg",
+    "static/media/KOS.jpg": "/static/media/KOS.740730862f331f5eebde.jpg",
+    "static/media/asiana.jpg": "/static/media/asiana.36e027dcb59d35d2ff67.jpg",
+    "static/media/equipo.jpg": "/static/media/equipo.3b4687d8653599765728.jpg",
+    "static/media/logo_transparent.png": "/static/media/logo_transparent.c979a14e23ce603964be.png",
+    "index.html": "/index.html",
+    "main.7a6854a0.css.map": "/static/css/main.7a6854a0.css.map",
+    "main.04db52a3.js.map": "/static/js/main.04db52a3.js.map",
+    "787.a3ca64dc.chunk.js.map": "/static/js/787.a3ca64dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a6854a0.css",
+    "static/js/main.04db52a3.js"
+  ]
+}
